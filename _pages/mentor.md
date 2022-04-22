@@ -1,8 +1,7 @@
 ---
 layout: archive
-permalink: /mentoringphilosophy/
+permalink: /mentor/
 title: "Mentoring Philosophy"
-author_profile: true
 ---
 
 I believe that a mentoring network tailored to your specific needs is an indispensable piece of the puzzle for success. As a mentee, my scientific journey would not have been the same without the guidance and support from my mentors. As a mentor, my own mentoring philosophy is built upon two core values: effective communication and fostering growth.
