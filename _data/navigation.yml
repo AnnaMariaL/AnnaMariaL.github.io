@@ -9,5 +9,5 @@ main:
   - title: "News"
     url: /year-archive/
 
-- title: "Mentoring Philosophy"
-    url: /mentoringphilosophy/
+  - title: "Mentoring Philosophy"
+    url: /mentor/
