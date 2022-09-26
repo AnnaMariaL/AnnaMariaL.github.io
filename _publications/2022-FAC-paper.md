@@ -1,11 +1,11 @@
 ---
-title: "A homing suppression gene drive with multiplexed gRNAs maintains high drive conversion efficiency and avoids functional resistance alleles"
+title: "Fitness effects of CRISPR endonucleases in <i>Drosophila melanogaster</i> populations"
 collection: publications
 permalink: /publication/2022-FAC-paper
-excerpt: 'The usage of multiplexed gRNAs provides the emergence of functional resistance alleles in a suppression gene drive in <i>Drosophila</i>'
+excerpt: '<i>Drosophila</i> test'
 date: 2022-24-09
 venue: 'eLife'
-citation: 'Yang, E, Metzloff, M, Langmüller AM, Xu, X, Clark, AG, Messer, PW, Champer, J. A homing suppression gene drive with multiplexed gRNAs maintains high drive conversion efficiency and avoids functional resistance alleles.  G3 Genes|Genomes|Genetics, 2022;, jkac081. https://doi.org/10.1093/g3journal/jkac081.'
+citation: 'Anna M Langmüller, Jackson Champer, Sandra Lapinska, Lin Xie, Matthew Metzloff, Samuel E Champer, Jingxian Liu, Yineng Xu, Jie Du, Andrew G Clark, Philipp W Messer (2022) Fitness effects of CRISPR endonucleases in Drosophila melanogaster populations eLife 11:e71809.'
 ---
 
-[Download paper here](https://doi.org/10.1093/g3journal/jkac081)
+[Download paper here](https://doi.org/10.7554/eLife.71809)
