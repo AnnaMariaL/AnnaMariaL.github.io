@@ -1,7 +1,7 @@
 ---
 title: "Fitness effects of CRISPR endonucleases in <i>Drosophila melanogaster</i> populations"
 collection: publications
-permalink: /publication/2022-FAC-paper
+permalink: /publication/2022-FAC-Paper
 excerpt: '<i>Drosophila</i> test'
 date: 2022-24-09
 venue: 'eLife'
