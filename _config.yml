@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anna Maria Langmüller"
-description              : &description "MSCA postdoctoral fellow at Cornell University"
+description              : &description "AIAS-AUFF fellow at Aarhus University"
 url                      : https://AnnaMariaL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/AnnaMariaL"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Anna Maria Langmüller"
-  avatar           : "portrait.jpg"
-  bio              : "MSCA postdoctoral fellow studying the role of spatial structure in mosquito-transmitted diseases"
-  location         : "Cornell University"
+  avatar           : "IMG_20240414_213416.jpg"
+  bio              : "AIAS-AUFF fellow studying adaptation across time and space."
+  location         : "Aarhus University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
