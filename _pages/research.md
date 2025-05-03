@@ -13,12 +13,12 @@ author_profile: true
   </p>
 </div>
 
-## 2. How Does Purifying Selection Shape Transposable Element Invasions?
+## 2. How does purifying selection shape transposable element invasions?
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/Drosophila-edited.jpg" alt="Transposable Elements" style="width: 40%; margin-right: 2em;">
   <p style="display: block; margin-top: 0;"> 
-    I study transposable elements (TEs), DNA sequences that can replicate within their host genomes. While the underrepresentation of TEs in coding regions suggests that purifying selection acts against new insertions, little is known about the balance between mutational pressure from TEs and the selection opposing them. My research investigates the distribution of fitness effects of new TE insertions in D. simulans, using experimental evolution combined with statistical emulation. Focusing on the P-element, a well-known TE in Drosophila species, I show that most P-element insertions are deleterious and subject to strong purifying selection. This work highlights the power of combining experimental evolution, individual-based modeling, and machine learning to uncover the complex dynamics of TE invasions.
+    I study transposable elements (TEs), DNA sequences that can replicate within their host genomes. While the underrepresentation of TEs in coding regions suggests that purifying selection acts against new insertions, little is known about the balance between mutational pressure from TEs and the selection opposing them. My research investigates the distribution of fitness effects of new TE insertions in Drosophila simulans, using experimental evolution combined with statistical emulation. Focusing on the P-element, a well-known TE in Drosophila species, I show that most P-element insertions are deleterious and subject to strong purifying selection. This work highlights the power of combining experimental evolution, individual-based modeling, and machine learning to uncover the complex dynamics of TE invasions.
     <br><br>
     <a href="https://www.biorxiv.org/content/10.1101/2024.12.17.628872v2" target="_blank">Click here to access the preprint</a>
   </p>
