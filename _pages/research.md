@@ -10,7 +10,7 @@ author_profile: true
 ## 1. How does environmental heterogeneity influence the genomic footprint of adaptation?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="../images/3953273590_704e3899d5_m.jpg" alt="Spatial Dynamics" style="width: 40%; margin-right: 2em;">
+  <img src="../images/Drosophila-ChatGPT.jpg" alt="Spatial Adaptation" style="width: 40%; margin-right: 2em;">
   <p> Understanding how organisms adapt to rapidly changing environments is crucial, especially in the context of global climate change. Adaptation often involves evolutionary trade-offs, where adjusting to one challenge, such as insecticides, may affect other traits like heat tolerance. My research investigates how environmental heterogeneity influences the spread of adaptive mutations, considering these pleiotropic effects. In this context, classic population genetic models only provide limited insights as they assume random mating and spatial homogeneity. To address this, I employ individual-based simulations and statistical frameworks to explore how environmental heterogeneity shapes the genomic footprint of insecticide resistance and affects adaptation dynamics across time and space. 
   </p>
 </div>
@@ -18,7 +18,7 @@ author_profile: true
 ## 2. Modeling Evolution in Structured Populations
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="../images/3953273590_704e3899d5_m.jpg" alt="Structured Populations" style="width: 40%; margin-right: 2em;">
+  <img src="../images/Drosophila-edited.jpg" alt="Transposable Elements" style="width: 40%; margin-right: 2em;">
   <p>
     This research explores how spatial and genetic structures influence evolutionary outcomes.
     We use simulation tools like SLiM to model gene flow, selection, and drift across heterogeneous landscapes.
