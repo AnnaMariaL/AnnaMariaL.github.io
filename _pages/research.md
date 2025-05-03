@@ -5,7 +5,7 @@ title: "Current Research Projects"
 author_profile: true
 ---
 
-# 1. How does environmental heterogeneity influence the genomic footprint of adaptation?
+## 1. How does environmental heterogeneity influence the genomic footprint of adaptation?
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/Drosophila-ChatGPT.jpg" alt="Spatial Adaptation" style="width: 40%; margin-right: 2em;">
@@ -13,7 +13,7 @@ author_profile: true
   </p>
 </div>
 
-# 2. How Does Purifying Selection Shape Transposable Element Invasions?
+## 2. How Does Purifying Selection Shape Transposable Element Invasions?
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/Drosophila-edited.jpg" alt="Transposable Elements" style="width: 40%; margin-right: 2em;">
@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 
-# 3. How does population structure influence host-pathogen dynamics in mosquito-transmitted diseases?
+## 3. How does population structure influence host-pathogen dynamics in mosquito-transmitted diseases?
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/GP-concept.jpg" alt="GPs in Epidemiology" style="width: 40%; margin-right: 2em;">
