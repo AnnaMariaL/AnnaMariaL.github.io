@@ -10,7 +10,7 @@ citation: 'Langmüller AM, Hermisson J, Murdock CC, Messer PW. Catching a wave: 
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0040580924001072?via%3Dihub)
 
-# Catching a wave: On the suitability of traveling wave solutions in epidemiological modeling 
+# How Far, How Fast? Rethinking Disease Spread Through Space
 
 Imagine you’re a scientist, and you want to study how disease dynamics unfold across space and through time. How would you start? Not, I hope, with unapproved releases of a new virus in your home town. Rather, you would start your research with a mathematical model. You would define some specific rules about how your disease propagates in your theoretical population, and then you would study the resulting dynamics, looking at the consequences of your chosen rules – how fast does it spread, and what spatial patterns of infection develop? You might do this either with the help of pen and paper, or with some keyboard strokes on your laptop. But which mathematical model should you choose? The answer depends on your specific research question and the disease you want to study.
 
