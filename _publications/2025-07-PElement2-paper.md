@@ -6,7 +6,7 @@ excerpt: "Transposable elements (TEs) are mobile DNA sequences that can disrupt 
 date: 2025-07-25
 venue: 'Genome Biology'
 
-citation: 'Langmüller AM, Haller BC, Nolte V, Schlötterer C. Purifying selection shapes the dynamics of P-element invasion in *Drosophila simulans* populations. Genome Biol 26, 221 (2025). https://doi.org/10.1186/s13059-025-03688-2'
+citation: "Langmüller AM, Haller BC, Nolte V, Schlötterer C. Purifying selection shapes the dynamics of P-element invasion in *Drosophila simulans* populations. Genome Biol 26, 221 (2025). https://doi.org/10.1186/s13059-025-03688-2"
 ---
 
 [Download paper here](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03688-2)
