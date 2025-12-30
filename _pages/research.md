@@ -13,7 +13,17 @@ author_profile: true
   </p>
 </div>
 
-## 2. How does purifying selection shape transposable element invasions?
+## 2. How does population structure influence host-pathogen dynamics in mosquito-transmitted diseases?
+
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
+  <img src="../images/GP-concept.jpg" alt="GPs in Epidemiology" style="width: 40%; margin-right: 2em;">
+  <p style="display: block; margin-top: 0;"> Individual-based models (IBMs) with a high level of biological realism can offer important insights into disease dynamics but are often too computationally expensive for systematic analysis. In this project, I explore Gaussian Process (GP) emulation to overcome this challenge. I developed an IBM loosely inspired by dengue, incorporating key drivers of dengue epidemics such as social structure, human mobility, and seasonality. GP surrogate models trained to predict outbreak probability, peak incidence, and epidemic duration enable rapid model analysis across the original model’s eight-dimensional parameter space. This paves the way for a comprehensive variance-based sensitivity analysis, which shows that average human mobility as a key driver of simulated epidemic outbreaks. Using a dataset of 1,000+ dengue outbreaks in Colombia for GP calibration, I pinpointed municipalities with consistently high infectivity levels. This work demonstrates how statistical emulation can make complex IBMs tractable and facilitate (empirical) data analysis.
+    <br><br>
+    <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013849" target="_blank">Click here to access the publication</a>
+  </p>
+</div>
+
+## 3. How does purifying selection shape transposable element invasions?
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/Drosophila-edited.jpg" alt="Transposable Elements" style="width: 40%; margin-right: 2em;">
@@ -25,14 +35,6 @@ author_profile: true
 </div>
 
 
-## 3. How does population structure influence host-pathogen dynamics in mosquito-transmitted diseases?
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
-  <img src="../images/GP-concept.jpg" alt="GPs in Epidemiology" style="width: 40%; margin-right: 2em;">
-  <p style="display: block; margin-top: 0;"> Individual-based models (IBMs) with a high level of biological realism can offer important insights into disease dynamics but are often too computationally expensive for systematic analysis. In this project, I explore Gaussian Process (GP) emulation to overcome this challenge. I developed an IBM loosely inspired by dengue, incorporating key drivers of dengue epidemics such as social structure, human mobility, and seasonality. GP surrogate models trained to predict outbreak probability, peak incidence, and epidemic duration enable rapid model analysis across the original model’s eight-dimensional parameter space. This paves the way for a comprehensive variance-based sensitivity analysis, which shows that average human mobility as a key driver of simulated epidemic outbreaks. Using a dataset of 1,000+ dengue outbreaks in Colombia for GP calibration, I pinpointed municipalities with consistently high infectivity levels. This work demonstrates how statistical emulation can make complex IBMs tractable and facilitate (empirical) data analysis.
-    <br><br>
-    <a href="https://www.medrxiv.org/content/10.1101/2024.11.28.24318136v1" target="_blank">Click here to access the preprint</a>
-  </p>
-</div>
 
 
