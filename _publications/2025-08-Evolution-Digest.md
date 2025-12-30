@@ -6,7 +6,7 @@ excerpt: "This Evolution Digest summarizes recent research by Prileson et al. on
 date: 2025-12-22
 venue: 'Evolution'
 
-citation: 'Langmüller AM. Digest: Winter Is Coming: Overwintering Selection and the Cost of Insecticide Resistance in Fruit Flies. Evolution, qpaf256 (2025). https://doi.org/10.1093/evolut/qpaf256'
+citation: 'Langmüller AM. Digest: Winter is coming: Overwintering selection and the cost of insecticide resistance in fruit flies. Evolution, qpaf256 (2025). https://doi.org/10.1093/evolut/qpaf256'
 ---
 
 [Download digest here](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf256/8400330)
