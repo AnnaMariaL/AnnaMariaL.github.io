@@ -28,12 +28,13 @@ author_profile: true
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 2em;">
   <img src="../images/Drosophila-edited.jpg" alt="Transposable Elements" style="width: 40%; margin-right: 2em;">
   <p style="display: block; margin-top: 0;"> 
-    I study transposable elements (TEs), DNA sequences that can replicate within their host genomes. While the underrepresentation of TEs in coding regions suggests that purifying selection acts against new insertions, little is known about the balance between mutational pressure from TEs and the selection opposing them. My research investigates the distribution of fitness effects of new TE insertions in <i>Drosophila simulans</i>, using experimental evolution combined with statistical emulation. Focusing on the P-element, a well-known TE in <i>Drosophila species</i>, I show that most P-element insertions are deleterious and subject to strong purifying selection. This work highlights the power of combining experimental evolution, individual-based modeling, and machine learning to uncover the complex dynamics of TE invasions.
+    I study transposable elements (TEs), DNA sequences that can replicate within their host genomes. While the underrepresentation of TEs in coding regions suggests that purifying selection acts against new insertions, little is known about the balance between mutational pressure from TEs and the selection opposing them. My research investigates the distribution of fitness effects of new TE insertions in <i>Drosophila simulans</i>, using experimental evolution combined with statistical emulation. Focusing on the P-element, a well-known TE in <i>Drosophila</i> species, I show that most P-element insertions are deleterious and subject to strong purifying selection. I am currently extending this work by investigating whether temperature affects the distribution of fitness effects of TE insertions. This work highlights the power of combining experimental evolution, individual-based modeling, and machine learning to uncover the complex dynamics of TE invasions.
     <br><br>
     <a href="https://doi.org/10.1186/s13059-025-03688-2" target="_blank">Click here to access the publication</a>
+    <br><br>
+    <span style="font-size: 0.9em; color: gray;">Photo credit: Almoro Scarpa</span>
   </p>
 </div>
-
 
 
 
