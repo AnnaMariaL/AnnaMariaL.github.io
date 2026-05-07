@@ -15,25 +15,20 @@ author_profile: true
 Understanding how organisms adapt to rapidly changing environments is crucial, especially in the context of global climate change. Adaptation often involves evolutionary trade-offs, where adjusting to one challenge, such as insecticides, may affect other traits like heat tolerance. My research investigates how environmental heterogeneity influences the spread of adaptive mutations, considering these pleiotropic effects. In this context, classic population genetic models only provide limited insights as they assume random mating and spatial homogeneity. To address this, I employ individual-based simulations and statistical frameworks to explore how environmental heterogeneity shapes the genomic footprint of insecticide resistance and affects adaptation dynamics across time and space.
 </p>
 
----
-
-## 2. How does population structure influence host-pathogen dynamics in mosquito-transmitted diseases?
+## 2. When can genomic data predict population persistence?
 
 <div style="text-align: center; margin-bottom: 1.5em;">
-  <img src="../images/GP-concept.jpg" alt="GPs in Epidemiology" style="width: 50%; max-width: 500px;">
+  <img src="../images/Butterflies-DigitalTwin.jpg" alt="Predictive Population Genomics" style="width: 50%; max-width: 500px;">
 </div>
 
 <p style="text-align: justify;">
-Individual-based models (IBMs) with a high level of biological realism can offer important insights into disease dynamics but are often too computationally expensive for systematic analysis. In this project, I explore Gaussian Process (GP) emulation to overcome this challenge. I developed an IBM loosely inspired by dengue, incorporating key drivers of dengue epidemics such as social structure, human mobility, and seasonality. GP surrogate models trained to predict outbreak probability, peak incidence, and epidemic duration enable rapid model analysis across the original model’s eight-dimensional parameter space. This paves the way for a comprehensive variance-based sensitivity analysis, which shows that average human mobility is a key driver of simulated epidemic outbreaks. Using a dataset of 1,000+ dengue outbreaks in Colombia for GP calibration, I pinpointed municipalities with consistently high infectivity levels. This work demonstrates how statistical emulation can make complex IBMs tractable and facilitate empirical data analysis.
+Predicting whether populations can persist under environmental change is a major challenge in ecology and conservation biology. Genomic data are increasingly used to estimate extinction risk and adaptive potential, but it remains unclear when they actually improve predictions beyond ecological information alone. My research addresses this question by combining genomic data, fitness-related traits, and habitat information from natural butterfly populations within computational models.
+
+The central idea behind this work is that genomic patterns only become informative when interpreted in the context of population history and environmental change. Similar levels of genetic diversity can arise from very different demographic histories and therefore imply different evolutionary futures. To investigate this, I develop eco-evolutionary “digital twins” that integrate genomic variation, habitat dynamics, and phenotypic data into individual-based simulation models. These models allow us to test whether genomic information improves predictions of effective population size, fitness-related traits, and population persistence across fragmented landscapes.
+
+Using repeated sampling and time-resolved genomic data, the project directly compares predicted and observed population changes over time. More broadly, this work aims to move evolutionary genomics from describing patterns retrospectively toward predicting how populations respond to environmental change.
 </p>
 
-<p>
-  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013849" target="_blank">
-    Click here to access the publication
-  </a>
-</p>
-
----
 
 ## 3. How does purifying selection shape transposable element invasions?
 
