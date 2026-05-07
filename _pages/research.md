@@ -9,13 +9,16 @@ author_profile: true
 
 <div style="text-align: center; margin-bottom: 1.5em;">
   <img src="../images/Trees-Elisabetta-Ferrari.jpg" alt="Spatial Adaptation" style="width: 33%; max-width: 500px;">
-</div>
   <p style="font-size: 0.85em; color: gray; margin-top: 0.5em;">
     Photo credit: Elisabetta Ferrari
   </p>
+  </div>
 <p style="text-align: justify;">
 Understanding how organisms adapt to rapidly changing environments is crucial, especially in the context of global climate change. Adaptation often involves evolutionary trade-offs, where adjusting to one challenge, such as insecticides, may affect other traits like heat tolerance. My research investigates how environmental heterogeneity influences the spread of adaptive mutations, considering these pleiotropic effects. In this context, classic population genetic models only provide limited insights as they assume random mating and spatial homogeneity. To address this, I employ individual-based simulations and statistical frameworks to explore how environmental heterogeneity shapes the genomic footprint of insecticide resistance and affects adaptation dynamics across time and space.
+
+As part of this work, I collaborate with the [Center for Ecological Genetics at Aarhus University]([https://ecogenetics.au.dk/?utm_source=chatgpt.com](https://bio.au.dk/en/research/research-centres/centre-for-ecological-genetics)) to study the distribution of insecticide resistance mutations across arthropod populations in Denmark. Using genomic data from more than 25 arthropod species sampled across agricultural and natural habitats, we investigate how resistance mutations vary across landscapes and environmental gradients, including temperature and land use.
 </p>
+
 
 ## 2. When can genomic data predict population persistence?
 
