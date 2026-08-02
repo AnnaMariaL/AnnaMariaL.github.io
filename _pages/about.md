@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational evolutionary biologist interested in how populations adapt to rapidly changing environments. My research combines evolutionary genomics, computational biology, and machine learning to understand the mechanisms that drive rapid evolutionary change and to predict how populations respond to environmental challenges such as climate change, habitat fragmentation, and anthropogenic selection pressures.
 
-Starting August 1st, I will join the [Genetic Agrobiodiversity Section](https://qgg.au.dk/en/research/genetic-agrobiodiversity) at the [Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en), Aarhus University, as a tenure-track Assistant Professor. There, I will use genomic and computational approaches to study biodiversity dynamics and adaptation in natural populations across heterogeneous environments.
+Since August 2026, I have been a tenure-track Assistant Professor at the [Genetic Agrobiodiversity Section](https://qgg.au.dk/en/research/genetic-agrobiodiversity) within the [Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en). There, I use genomic and computational approaches to study biodiversity dynamics and adaptation in natural populations across heterogeneous environments.
 
 In classical population genetics, evolution is often viewed as a slow process unfolding over thousands of generations. However, in the Anthropocene, many species must adapt within only a few generations to rapidly changing environments such as pesticide-treated landscapes, fragmented habitats, and urban ecosystems. My work aims to understand these rapid evolutionary processes by linking genomic data, phenotypic measurements, and computational models.
 
